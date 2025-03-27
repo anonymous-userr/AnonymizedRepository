@@ -1,4 +1,4 @@
-  [Extracted release data](https://zenodo.org/uploads/14184350) 
+  [Extracted release data](https://doi.org/10.5281/zenodo.15093005) 
 
 [Extracted dependency data]
 
